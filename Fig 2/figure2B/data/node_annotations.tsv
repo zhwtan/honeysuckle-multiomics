@@ -1,0 +1,10 @@
+﻿key	leaf_set	node_age_ma	time_label	expansion	contraction	dx_time	dy_time	dx_ec	dy_ec
+ROOT	Atrichopoda;Athaliana;Vvinifera;Sindicum;Ccanephora;Stuberosum;Lsativa;Ljaponica;Zmays;Osativa	176.56	177 (150-210)	510	47	-15	-0.4	2	0.5
+MONOEUD	Athaliana;Vvinifera;Sindicum;Ccanephora;Stuberosum;Lsativa;Ljaponica;Zmays;Osativa	149.86	150 (130-165)	5139	205	-3	0	2	0.45
+COREEUD	Athaliana;Vvinifera;Sindicum;Ccanephora;Stuberosum;Lsativa;Ljaponica	118.15	118 (108-135)	130	223	0	-0.5	2	0.55
+VITASTER	Vvinifera;Sindicum;Ccanephora;Stuberosum;Lsativa;Ljaponica	111.69	112 (104-130)	436	455	0	-0.35	2	0.45
+EUAST	Sindicum;Ccanephora;Stuberosum;Lsativa;Ljaponica	98.24	98 (88-118)	59	20	-4	-0.5	2	0.45
+LAM	Sindicum;Ccanephora;Stuberosum	90.24	90 (85-105)	157	399	0	-0.5	-14	0.05
+CAMP	Lsativa;Ljaponica	89.68	90 (85-103)	195	268	5	-0.3	2	0.45
+SOLGEN	Ccanephora;Stuberosum	83.63	84 (65-95)	NA	NA	7	-0.35	NA	NA
+POACE	Zmays;Osativa	66.68	67 (50-100)	2915	1942	5	-0.5	2	0.45

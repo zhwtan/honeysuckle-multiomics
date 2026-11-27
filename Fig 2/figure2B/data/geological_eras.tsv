@@ -1,0 +1,9 @@
+﻿name	start_ma	end_ma	color	label_row	label_ha
+(no label)	200	174.1	#f1ecdc		
+Middle Jurassic	174.1	163.5	#cfe0c5	2	
+Late Jurassic	163.5	145	#dfe9d3	1	
+Early Cretaceous	145	100.5	#e7efe0	1	
+Late Cretaceous	100.5	66	#d9e6f0	2	
+Paleogene	66	23.03	#f0dfe6	1	
+Neogene	23.03	2.58	#f3efe1	1	
+Quaternary	2.58	0	#ffffff	1	left
