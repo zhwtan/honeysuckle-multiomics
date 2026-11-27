@@ -1,0 +1,9 @@
+chr	-	Chr01	Chr01	0	115194098	chr1
+chr	-	Chr02	Chr02	0	114852743	chr2
+chr	-	Chr03	Chr03	0	92180292	chr3
+chr	-	Chr04	Chr04	0	82057097	chr4
+chr	-	Chr05	Chr05	0	83996301	chr5
+chr	-	Chr06	Chr06	0	75774226	chr6
+chr	-	Chr07	Chr07	0	69288232	chr7
+chr	-	Chr08	Chr08	0	66857074	chr8
+chr	-	Chr09	Chr09	0	64442711	chr9
